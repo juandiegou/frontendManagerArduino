@@ -1,0 +1,54 @@
+* {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+  margin: 0px;
+}
+
+td,
+th,
+tr,
+table {
+ 
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+td.producto,
+th.producto {
+  width: 60%;
+  max-width: 60%;
+  text-align: left;
+
+}
+
+td.cantidad,
+th.cantidad {
+  width: 15%;
+  max-width: 15%;
+  word-break: break-all;
+  text-align: left;
+}
+
+td.precio,
+th.precio {
+  width: 25%;
+  max-width: 25%;
+  word-break: break-all;
+  text-align: left;
+}
+
+.centrado {
+  text-align: center;
+  align-content: center;
+}
+
+img {
+  width: 70%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}

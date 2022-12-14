@@ -1,0 +1,20 @@
+.filter-window {
+  position: absolute;
+  background-color: #fff;
+  padding: 20px;
+  top: 40px;
+  left: 0px;
+  z-index: 999;
+  width: 200px;
+  color: black;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px -1px 12px -4px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px -1px 12px -4px rgba(0, 0, 0, 0.3);
+}
+
+.w-100px{
+  width: 100px !important;
+  border-color: #04a9f5 !important;
+  color: #04a9f5 !important;
+  background-color: white !important;
+}

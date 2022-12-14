@@ -1,0 +1,16 @@
+.product-promotion {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin-left: 0px !important;
+  background: #21b15d;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 5px;
+  color: #fff;
+}
+.product-promotion p {
+  font-weight: 300;
+  font-size: xx-large;
+}

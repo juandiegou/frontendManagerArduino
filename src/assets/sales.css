@@ -1,0 +1,35 @@
+.promotion {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin-left: 0px !important;
+  background: #21b15d;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 5px;
+  color: #fff;
+}
+
+.quantity {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.settings-icon {
+
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 40px !important;
+  height: 40px !important;
+  margin: 15px;
+  cursor: pointer;
+  transition: transform .2s;
+}
+.settings-icon :hover {
+  transform: scale(1.1); 
+}
