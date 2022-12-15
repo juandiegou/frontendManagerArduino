@@ -49,7 +49,6 @@ class Dashboard extends React.Component {
             <Row>
               <Col>
                 <Row>
-
                   <TableData />
                 </Row>
                 <Row>
